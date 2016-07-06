@@ -13,7 +13,7 @@ En la imagen muestra la versión 8, si no tenemos instalado el jdk o tenemos uan
 
 ![_config.yml]({{ site.baseurl }}/images/versionjava.png)
 
-2.- Ahora si!, ingresamos al sitio de [Android Developer](https://developer.android.com/develop/index.html), automaticamente nos detecta nuestro sistema operativo, damos clcik en descargar Android Studio, aceptamos los términos y condiciones.
+2.- Ahora si!, ingresamos al sitio de [Android Developer](https://developer.android.com/studio/index.html), automaticamente nos detecta nuestro sistema operativo, damos clcik en descargar Android Studio, aceptamos los términos y condiciones.
 (2 imagenes)
 
 En esta pantalla asegurate de marcar todas las opciones
