@@ -9,8 +9,9 @@ Empezamos:
 
 1.- Primero verificamos si tenemos instalado el jdk y la versión.
 Abrimos la consola, escribimos: java -version
+En la imagen muestra la versión 8, si no tenemos instalado el jdk o tenemos uan version inferior a la 7, descargamos el jdk en este [link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-({{ site.baseurl }}/images/config.png)
+({{ site.baseurl }}/images/versionjava.png)
 
 Debemos 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
