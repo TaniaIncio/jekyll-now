@@ -8,12 +8,17 @@ Para empezar a desarrollar aplicaciones móviles android, vamos a utilizar el en
 Empezamos:
 
 1.- Primero verificamos si tenemos instalado el jdk y la versión.
-Abrimos la consola, escribimos: java -version
+Abrimos un terminal y escribimos: java -version
 En la imagen muestra la versión 8, si no tenemos instalado el jdk o tenemos uan version inferior a la 7, descargamos el jdk en este [link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ![_config.yml]({{ site.baseurl }}/images/versionjava.png)
 
-Debemos
-![_config.yml]({{ site.baseurl }}/images/config.png)
+2.- Ahora si!, ingresamos al sitio de [Android Developer](https://developer.android.com/develop/index.html), automaticamente nos detecta nuestro sistema operativo, damos clcik en descargar Android Studio, aceptamos los términos y condiciones.
+(2 imagenes)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+En esta pantalla asegurate de marcar todas las opciones
+
+Inicia la descarga.
+
+3.- Listo!..Podemos empezar a programar.
+(imagen)
