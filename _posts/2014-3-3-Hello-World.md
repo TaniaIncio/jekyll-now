@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Instalación de Android Studio en Windows
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Para empezar a desarrollar aplicaciones móviles android, vamos a utilizar el entorno de desarrollo Android Studio,porque elegimos este IDE, bueno es el oficial de Google y por ser puramente para programar en android, se actualza constantemente, es rápido, intuitivo y para el diseño de interfaces es muy bueno sobre todo en la última version de este IDE(2.1), antes usabamos Eclipse, al cual le teniamos que instalar el plugin ADT(Android Development Tools), pero eso ya quedo en el pasado, Google dejo de darle soporte a este plugin.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
