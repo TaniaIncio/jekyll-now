@@ -11,9 +11,9 @@ Empezamos:
 Abrimos la consola, escribimos: java -version
 En la imagen muestra la versión 8, si no tenemos instalado el jdk o tenemos uan version inferior a la 7, descargamos el jdk en este [link](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-({{ site.baseurl }}/images/versionjava.png)
+![_config.yml]({{ site.baseurl }}/images/versionjava.png)
 
-Debemos 
+Debemos
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
